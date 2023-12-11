@@ -2,7 +2,11 @@
 Sistem POS Kasir merupakan solusi modern yang dirancang untuk meningkatkan efisiensi dan akurasi dalam transaksi penjualan di berbagai jenis bisnis. Tujuan utama dari sistem ini adalah untuk menggantikan metode tradisional kasir manual dengan pendekatan yang lebih terotomatisasi, memberikan pengalaman berbelanja yang lebih lancar dan efisien.</br>
 
 ### Demo Sistem POS Kasir
-**Berikut Tampilan Dashboardnya**
+
+- Gambar dibawah output dari Login.
+  ![Screenshot (73)](https://github.com/ferdycuy/rpl_project/assets/115714443/8ae9a8b7-63ef-42a1-bb9a-6b53c32c0268)
+
+- Gambar dibawah output dari Dashboard.
 ![Screenshot (67)](https://github.com/ferdycuy/rpl_project/assets/115714443/d4a8f0b4-1e0b-4591-bd6a-b8e146666235)
 
 **Input Kelola Produk ada 2(produk dan kategori**)
