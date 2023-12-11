@@ -1,5 +1,5 @@
 # Sistem Kasir KJ.FROZEN FISH
-
+Sistem Alternatif Pemrosesan Kasir merupakan solusi modern yang dirancang untuk meningkatkan efisiensi dan akurasi dalam transaksi penjualan di berbagai jenis bisnis. Tujuan utama dari sistem ini adalah untuk menggantikan metode tradisional kasir manual dengan pendekatan yang lebih terotomatisasi, memberikan pengalaman berbelanja yang lebih lancar dan efisien.</br>
 **Berikut Tampilan Dashboardnya**
 ![Screenshot (67)](https://github.com/ferdycuy/rpl_project/assets/115714443/d4a8f0b4-1e0b-4591-bd6a-b8e146666235)
 
