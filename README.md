@@ -1,4 +1,4 @@
-# rpl_project sistem Kasir KJ.FROZEN FISH
+# Sistem Kasir KJ.FROZEN FISH
 
 **Berikut Tampilan Dashboardnya**
 ![Screenshot (67)](https://github.com/ferdycuy/rpl_project/assets/115714443/d4a8f0b4-1e0b-4591-bd6a-b8e146666235)
