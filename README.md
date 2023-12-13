@@ -12,16 +12,20 @@ Sistem POS Kasir merupakan solusi modern yang dirancang untuk meningkatkan efisi
 ![Screenshot (78)](https://github.com/ferdycuy/rpl_project/assets/115714443/808e7877-c6e2-49a6-b171-64ca4d1034a0)
 
 
-**Menu Kelola Produk ada (produk dan kategori**)
+**Menu Kelola Produk (produk dan kategori**)
 - Gambar dibawah sub menu produk.</br>
-  Disini user dapat menambah,mengubah,menghapus Produk.
+  Disini user dapat menambah,mengubah,menghapus Produk.</br.
 ![Screenshot (79)](https://github.com/ferdycuy/rpl_project/assets/115714443/33032c68-5238-40c4-836b-2e566efeaa9f)
+
+   Selain itu jika stok produk kurang dari 3, maka akan ada peringatan.
+![Screenshot (86)](https://github.com/ferdycuy/rpl_project/assets/115714443/353372c1-7812-47af-be48-748468d15c4b)
+
 
 - Gambar dibawah sub menu kategori.</br>
   Disini user dapat menambah,mengubah,menghapus Kategori.
 ![Screenshot (80)](https://github.com/ferdycuy/rpl_project/assets/115714443/fa349738-9981-44e0-ac58-20a6217540a7)
 
-**Menu Transaksi ada (Transaksi jual dan Laporan penjualan)**
+**Menu Transaksi (Transaksi jual dan Laporan penjualan)**
 - Gambar dibawah sub menu Transaksi jual.</br>
   Disini user melakukan transaksi penjualan produk,serta cetak print penjualan.
 ![Screenshot (81)](https://github.com/ferdycuy/rpl_project/assets/115714443/5b608698-8150-4f5b-8a52-7740cb96ccef)
