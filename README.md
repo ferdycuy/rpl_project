@@ -38,9 +38,14 @@ Sistem POS Kasir merupakan solusi modern yang dirancang untuk meningkatkan efisi
   - Disini juga masih kosong.
 ![Screenshot (83)](https://github.com/ferdycuy/rpl_project/assets/115714443/43668606-a4a1-4da4-b79a-312d821b649e)
 
+- Gambar dibawah adalah Profil
+  - Disini adalah data diri pengguna/user,juga bisa mengubah username dan password.
+  ![Screenshot (89)](https://github.com/ferdycuy/rpl_project/assets/115714443/d6b5f659-c6ce-482c-9120-d005dfa7de55)
+
 - Gambar dibawah adalah tombol logout.</br>
   Jika user ingin logout.
-![Screenshot (84)](https://github.com/ferdycuy/rpl_project/assets/115714443/5031ce58-7d12-42d0-a545-0f87b3cf797d)
+![Screenshot (90)](https://github.com/ferdycuy/rpl_project/assets/115714443/5054d214-7bea-48b2-be2b-b4aefa008f84)
+
 
 
 
