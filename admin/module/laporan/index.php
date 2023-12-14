@@ -57,7 +57,7 @@
 								$bln1 = array('01','02','03','04','05','06','07','08','09','10','11','12');
 								$no=1;
 								for($c=0; $c<$jlh_bln; $c+=1){
-									echo"<option value='$bln1[$c]'> $bulan[$c] </option>";
+									echo"<option value='$bn1[$c]'> $bulan[$c] </option>";
 								$no++;}
 							?>
 								</select>
@@ -170,36 +170,7 @@
 								}
 							?>
 							<?php 
-								$bayar = 0;
-								$jumlah = 0;
-								$modal = 0;
-								foreach($hasil as $isi){ 
-									$bayar += $isi['total'];
-									$modal += $isi['harga_beli']* $isi['jumlah'];
-									$jumlah += $isi['jumlah'];
-							?>
-							<tr>
-								<td><?php echo $no;?></td>
-								<td><?php echo $isi['id_barang'];?></td>
-								<td><?php echo $isi['nama_barang'];?></td>
-								<td><?php echo $isi['jumlah'];?> </td>
-								<td>Rp.<?php echo number_format($isi['harga_beli']* $isi['jumlah']);?>,-</td>
-								<td>Rp.<?php echo number_format($isi['total']);?>,-</td>
-								<td><?php echo $isi['nm_member'];?></td>
-								<td><?php echo $isi['tanggal_input'];?></td>
-							</tr>
-							<?php $no++; }?>
-						</tbody>
-						<tfoot>
-							<tr>
-								<th colspan="3">Total Terjual</td>
-								<th><?php echo $jumlah;?></td>
-								<th>Rp.<?php echo number_format($modal);?>,-</th>
-								<th>Rp.<?php echo number_format($bayar);?>,-</th>
-								<th style="background:#0bb365;color:#fff;">Keuntungan</th>
-								<th style="background:#0bb365;color:#fff;">
-									Rp.<?php echo number_format($bayar-$modal);?>,-</th>
-							</tr>
+							
 						</tfoot>
 					</table>
 				</div>
